@@ -27,7 +27,7 @@ Welcome to my website, here to showcase my projects. I am currently a Computer S
 * [Embedded Systems Design Contest](https://github.com/dk949/EMBS_Design_Contest) - Genetic algorithm to map set of communication processes to platform
     * Software Project
     * Java
-    * [2021 Winner](https://embeddedoutthere.blogspot.com)
+    * [2021 Winner](https://embeddedoutthere.blogspot.com/2021/12/embs-design-contest-2021.html)
 * Embedded Systems Implementation Assessment - Robot Simulator using ARM processor and FPGA hardware acceleration
     * Embedded Systems Project
     * C
